@@ -37,7 +37,7 @@ Currently working on **AWS**, **Azure**, and **CI/CD pipelines**.
 ## 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/anujkapile](https://linkedin.com/in/anujkapile)
 - **Blog:** [Your Blog Link Here]
-- **Email:** anujkapile@example.com
+- **Email:** kapileanuj15@gmail.com
 
 ---
 
