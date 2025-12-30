@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Anujkapile/Anujkapile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Anuj Kapile 👋
+A passionate DevOps Engineer working on AWS & Azure Cloud.
 
-Here are some ideas to get you started:
+![Profile Banner](https://github.com/Anujkapile/Anujkapile/blob/main/banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Anujkapile&show_icons=true&theme=radical)
