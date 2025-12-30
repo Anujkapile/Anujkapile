@@ -1,13 +1,52 @@
 
-# Hi, I'm Anuj Kapile 👋
-A passionate DevOps Engineer working on AWS & Azure Cloud.
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/Anujkapile/Anujkapile/blob/main/banner.png" alt="DevOps Banner" width="800"/>
+</p>
 
-![Profile Banner](https://github.com/Anujkapile/Anujkapile/blob/main/banner.png)
+# Hi there 👋, I'm Anuj Kapile
+### 🚀 DevOps Engineer | Cloud Enthusiast | Automation Advocate
 
-## Skills
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+A passionate DevOps Engineer willing to implement my DevOps skills in an organization.  
+Currently working on **AWS**, **Azure**, and **CI/CD pipelines**.
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Anujkapile&show_icons=true&theme=radical)
+---
+
+## 🔧 Technologies & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anujkapile&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujkapile&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/anujkapile](https://linkedin.com/in/anujkapile)
+- **Blog:** [Your Blog Link Here]
+- **Email:** anujkapile@example.com
+
+---
+
+## 👨‍💻 About Me
+- 🔭 Currently working on **AWS and Azure Cloud**
+- 🌱 Learning **Kubernetes, Terraform, and CI/CD automation**
+- ✍️ Regularly write articles on [Medium](https://medium.com/@Anujkapile)
+- 💬 Ask me about **DevOps, Cloud, and Automation**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anujkapile&color=blue)
