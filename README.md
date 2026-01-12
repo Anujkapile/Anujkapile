@@ -38,6 +38,8 @@ Currently working on **AWS**, **Azure**, and **CI/CD pipelines**.
 - **LinkedIn:** [linkedin.com/in/anujkapile](https://linkedin.com/in/anujkapile)
 - **Blog:** [Your Blog Link Here]
 - **Email:** kapileanuj15@gmail.com
+- <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/06cef599-f87c-4922-8f58-01046d357e0b" />
+
 
 ---
 
